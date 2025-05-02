@@ -1,10 +1,27 @@
-# SymbolHash: A Reversible Symbolic Cipher
+# SymbolHash Encoder/Decoder
 
-Created by Jason, SymbolHash is a visual, binary-compatible cipher system that encodes text using custom symbols, dot-state logic, and reversible mappings. This app allows you to encode and decode any word using the SymbolHash system.
+**SymbolHash** is a reversible symbolic cipher created by Jason. It transforms each letter into a geometric or symbolic representation using quadrant logic, dot states, and binary anchors. ([@theodddoctorr](https://huggingface.co/theodddoctorr)).
 
-- 100% reversible
-- Supports dot-based recursion
-- Geometrically derived from custom quadrant logic
-- Usable for encryption, education, AI interpretability, and symbolic memory compression
+It encodes text using quadrant-based geometry, dot-state binary mutation, and visually traceable symbolic anchors.
 
-Try it out using the input fields provided.
+---
+
+
+[![License: Circle of Fifths](https://img.shields.io/badge/license-Circle_of_Fifths-blueviolet.svg)](./LICENSE)
+
+
+## License
+This project is licensed under the **Circle of Fifths License v1.0**.
+
+- Free for personal, educational, and non-commercial use
+- Requires attribution
+- Commercial use must be licensed or revenue-shared
+- Symbolic structure must not be distorted or erased
+
+**[Read the full license »](./LICENSE)**
+
+For permission or inquiries, contact: **theodddoctorr@protonmail.com**
+
+
+
+
